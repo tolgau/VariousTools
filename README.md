@@ -15,4 +15,4 @@ Ex. ./Application1/res/values ./Application2/res/values \
 Exports all the strings (including string arrays) into an excel workbook. \
 Different applications are exported to their own excel sheets. \
 Works only on Windows because "os" package behaves differently on Linux. \
-Tested with Windows 10 Pro 19043.1288, Python 3.8.2, XlsxWriter 1.3.7, colorama 0.4.4 \
+Tested with Windows 10 Pro 19043.1288, Python 3.8.2, XlsxWriter 1.3.7, colorama 0.4.4
